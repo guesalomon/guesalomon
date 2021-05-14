@@ -17,11 +17,13 @@ DV Ruiz and G Salomon, E Todt. Computer on the Beach (COTB'20), 1-7.
 G Salomon, A Britto, RH Vareto, WR Schwartz, D Menotti (2020, July). 2020 International Conference on Systems, Signals and Image Processing (IWSSIP), 161-166. IEEE.
 
 <!-- Links to my articles -->
-You can find me on [![LinkedIn][2.2]][10].
-
+You can find me on [![LinkedIn][1.1]][1] and on [![Scholar][1.2]][2].
 <!-- Icons -->
 
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.1]: https://raw.githubusercontent.com/guesalomon/guesalomon/main/imgs/linkedin.svg (Linkedin icon)
+[1.2]: https://raw.githubusercontent.com/guesalomon/guesalomon/main/imgs/googlescholar.svg (Google Scholar icon)
 
 <!-- Links to my social media accounts -->
-[10]: https://www.linkedin.com/in/gabriel-salomon/
+[1]: https://www.linkedin.com/in/gabriel-salomon/
+[2]: https://scholar.google.com/citations?user=4JXDo7EAAAAJ
+
