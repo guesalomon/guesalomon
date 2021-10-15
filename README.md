@@ -1,6 +1,6 @@
 ## Bio
-Master's student & Researcher at UFPR (Universidade Federal do Paraná) in Computer Vision,
-B.Sc. Computer Science at the Universidade Federal do Paraná (2018).
+M.Sc from UFPR (Universidade Federal do Paraná) in Computer Vision,
+B.Sc. Computer Science from the Universidade Federal do Paraná (2018).
 
 Experienced in Deep Learning, Computer Vision, Machine Learning, Python.
 
